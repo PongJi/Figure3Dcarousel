@@ -1,5 +1,6 @@
 # Figure3Dcarousel
 
-javascript实现3D轮播图
+javascript 
+点击图片实现图片3D轮播
 
 https://pongji.github.io/Figure3Dcarousel/index.html
